@@ -1,4 +1,4 @@
-Model is trained with these dog breeds:
+Model is trained with these dog breeds:  
 Rotweiler  
 German Shepard  
 Golden Retriever  
